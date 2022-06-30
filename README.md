@@ -1,3 +1,4 @@
 # Python-For-Everybody-Solutions
 
-Solutions to the exercises from "Python for Everybody Exploring Data Using Python 3", Dr. Charles R. Severance, 2016.
+Solutions to the exercises from "Python for Everybody. Exploring Data Using Python 3", Dr. Charles R. Severance, 2016.
+https://www.py4e.com/book
